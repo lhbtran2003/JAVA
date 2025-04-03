@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1a9687-cdcc-4efc-91d7-9f14d9325bdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Session_17/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/Session_17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/src/bai1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/src/bai2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/src/bai3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/src/bai4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Session_17/src/bai5/Main.java" afterDir="false" />
+    <list default="true" id="2a324b67-4162-4d1a-a907-cf8a8bcdadcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session_16/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session_16/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session_16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session_16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session_16/src/bai2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Session_16/src/bai2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +35,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2vAZIaXlBt8pgHpc871N5SlEeH6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2vCIvhOogP9bZe4RvA9i0fcwNmJ" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -47,7 +50,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/JAVA_CORE/Session_17",
     "node.js.detected.package.eslint": "true",
@@ -55,8 +60,6 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/JAVA_CORE/Session_16/src/Main.java",
-    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,13 +74,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f1a9687-cdcc-4efc-91d7-9f14d9325bdc" name="Changes" comment="" />
-      <created>1743589763083</created>
+      <changelist id="2a324b67-4162-4d1a-a907-cf8a8bcdadcb" name="Changes" comment="" />
+      <created>1743642861367</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1743589763083</updated>
-      <workItem from="1743589764243" duration="1187000" />
-      <workItem from="1743591042506" duration="5290000" />
+      <updated>1743642861367</updated>
+      <workItem from="1743642862600" duration="3391000" />
     </task>
     <servers />
   </component>
