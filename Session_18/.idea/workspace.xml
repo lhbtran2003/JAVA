@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a324b67-4162-4d1a-a907-cf8a8bcdadcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bai7/Main.java" afterDir="false" />
+    <list default="true" id="5b6094a8-cbdf-4e7d-ba18-6ff1f983dfb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Session_17/src/bai7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Session_16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session_16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session_17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session_17/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +26,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2vCIvhOogP9bZe4RvA9i0fcwNmJ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectId" id="2vFDqsWsp9Zh9lpoYOR14aWLmom" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -40,19 +40,37 @@
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA_CORE/Session_17&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JAVA_CORE/Session_18/src/Main.java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1.Main" />
+      <module name="Session_18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,13 +82,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2a324b67-4162-4d1a-a907-cf8a8bcdadcb" name="Changes" comment="" />
-      <created>1743642861367</created>
+      <changelist id="5b6094a8-cbdf-4e7d-ba18-6ff1f983dfb7" name="Changes" comment="" />
+      <created>1743732126978</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1743642861367</updated>
-      <workItem from="1743642862600" duration="5907000" />
-      <workItem from="1743732064150" duration="62000" />
+      <updated>1743732126978</updated>
+      <workItem from="1743732128022" duration="1866000" />
+      <workItem from="1744031417495" duration="92000" />
+      <workItem from="1744031517474" duration="79000" />
+      <workItem from="1744031625356" duration="404000" />
     </task>
     <servers />
   </component>

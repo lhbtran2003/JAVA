@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1a9687-cdcc-4efc-91d7-9f14d9325bdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Session_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Session_17/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fbe5d4a7-6025-49c5-b291-c0b77e6e2ab2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/PriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +33,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2vAZIaXlBt8pgHpc871N5SlEeH6" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2vP0qsr5PCRJAGZzF37REJWFVvw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -38,16 +50,15 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAVA_CORE/Session_17",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/JAVA_CORE/Session_16/src/Main.java",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "onboarding.tips.debug.path": "D:/JAVA_CORE/Session18/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,13 +73,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f1a9687-cdcc-4efc-91d7-9f14d9325bdc" name="Changes" comment="" />
-      <created>1743589763083</created>
+      <changelist id="fbe5d4a7-6025-49c5-b291-c0b77e6e2ab2" name="Changes" comment="" />
+      <created>1744031597543</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1743589763083</updated>
-      <workItem from="1743589764243" duration="1187000" />
-      <workItem from="1743591042506" duration="5887000" />
+      <updated>1744031597543</updated>
+      <workItem from="1744031599097" duration="2241000" />
     </task>
     <servers />
   </component>
