@@ -39,10 +39,15 @@ public class Main {
     }
 
     public static double inputAmount(Scanner sc) throws InputMismatchException {
-        if (!sc.hasNextDouble() || sc.nextDouble() < 0) {
-            throw new InputMismatchException("Số tiền ko hợp lệ!");
-        }
-        return Double.parseDouble(sc.nextLine());
+       try {
+           double amount = Double.parseDouble(sc.nextLine());
+           if (amount < 0) {
+               throw new InputMismatchException("Số tiền ko đc âm");
+           }
+           return amount;
+       } catch (NumberFormatException e) {
+           throw new NumberFormatException("Số tiền ko hợp lệ");
+       }
     }
 
     private static BankAccount getBankAccount(String id) {
