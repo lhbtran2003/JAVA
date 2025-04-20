@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) {
        // đăng kí driver
         try {
+            Dr
             Class.forName( "com.mysql.cj.jdbc.Driver");
             // mở kết nối
             Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3307/first_conection_db?createDatabaseIfNotExist=true", "root", "");

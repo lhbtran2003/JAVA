@@ -37,7 +37,7 @@ public class Main {
                 System.out.println("Lương cao nhất: " + salary);
             }
             highestSalary.close();
-            
+
             ResultSet lowestSalary = stmt.executeQuery("SELECT MIN(SALARY) AS minSalary FROM employees ");
             while (lowestSalary.next()) {
                 double salary = lowestSalary.getDouble("minSalary");
@@ -45,7 +45,6 @@ public class Main {
 
             }
             lowestSalary.close();
-
 
 
         } catch (ClassNotFoundException e) {
